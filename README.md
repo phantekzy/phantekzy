@@ -1,9 +1,9 @@
 ┌──────────────────────────────────────────────────────────────┐
-│                     WELCOME TO MY TERMINAL                   │
+│                  WELCOME TO MY TERMINAL                     │
 ├──────────────────────────────────────────────────────────────┤
 │  USER      : Maini Lotfi                                     │
 │  ROLE      : Web Developer & Cybersecurity Enthusiast        │
-│  LOCATION  : Algeria                                         │
+│  LOCATION  : Algeria                                          │
 └──────────────────────────────────────────────────────────────┘
 
 > techstack --list
@@ -14,7 +14,7 @@
 [LinkedIn] → https://linkedin.com/in/maini-lotfi  
 [Twitter/X] → https://x.com/mainilotfi  
 [YouTube] → https://youtube.com/@phantekzy  
-[Email] → mainilotfi@gmail.com
+[Email] → mailto:mainilotfi@gmail.com
 
 > stats --show
 

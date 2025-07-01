@@ -1,7 +1,6 @@
-
 [phantekzy@archlinux ~]$ fastfetch
                    -`                   phantekzy@archlinux
-                  .o+`                  --------------------------
+                  .o+`                  -------------------------------
                  `ooo/                  Full Name : Maini Lotfi Abdelkader
                 `+oooo:                 Alias     : phantekzy
                `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
@@ -11,11 +10,11 @@
            `/++++++++++++++:            WM        : Hyprland 🌀
           `/+++ooooooooooooo/`          Shell     : Zsh + Starship
          ./ooosssso++osssssso+`         Editor    : Neovim (Lua)
-        .oossssso-````/ossssss+`        Terminal  : Alacritty / Kitty
+        .oossssso-````/ossssss+`        Terminal  : Alacritty
        -osssssso.      :ssssssso.       Browser   : Firefox / W3M
       :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
      /ossssssss/        +ssssooo/-      Hobby     : AI, Linux, low-level code
-   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : Left Civil Engineering for Code 👨‍💻
+   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : Dropped Civil Engineering for Code 👨‍💻
   `+sso+:-`                 `.-/+oso:    Motto     : "Learn. Build. Repeat."
  `++:.                           `-/+/   
  .`                                 `

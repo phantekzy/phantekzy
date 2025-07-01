@@ -1,8 +1,6 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=phantekzy&theme=great-gatsby&hide_border=true)<br/>
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=phantekzy&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---

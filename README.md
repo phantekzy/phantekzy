@@ -8,7 +8,7 @@
 ░░       ░  ░░ ░ ░   ▒     ░   ░ ░  ░        ░  ░ ░░ ░░ ░ ░ ░ ░▒ ▒ ░░  
          ░  ░  ░     ░  ░        ░           ░  ░  ░    ░ ░    ░ ░     
                                                       ░        ░ ░                                                                  ░         ░ ░     
-
+```
 [maini@archlinux ~]$ cd /home/maini/
 
 [maini@archlinux ~]$ cat ./about_me.txt

@@ -50,6 +50,9 @@
 Linux archlinux 6.9.6-arch1-1 x86_64 GNU/Linux
 
 [phantekzy@archlinux ~]$ exit
+
 logout
+
 ███████████ Process terminated successfully.
+
 Thank you for visiting PHANTEKZY's Arch terminal 

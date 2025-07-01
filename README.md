@@ -1,20 +1,26 @@
-```
-             
-[maini@archlinux ~]$ cd /home/maini/
+```bash
+[maini@archlinux ~]$ fastfetch
+                   -`                   maini@archlinux
+                  .o+`                  --------------------------
+                 `ooo/                  OS        : Arch Linux x86_64
+                `+oooo:                 WM        : i3-gaps / Hyprland (dual)
+               `+oooooo:                Shell     : Zsh + Starship
+               -+oooooo+:               Editor    : Neovim (Lua)
+             `/:-:++oooo+:              Terminal  : Alacritty / Kitty
+            `/++++/+++++++:             Browser   : Firefox / W3M
+           `/++++++++++++++:            Theme     : NerdFont + Gruvbox Dark
+          `/+++ooooooooooooo/`          Full Name : Maini Lotfi Abdelkader
+         ./ooosssso++osssssso+`         Alias     : phantekzy
+        .oossssso-````/ossssss+`        Location  : Hadjout, Tipaza, Algeria
+       -osssssso.      :ssssssso.       Age       : 28 (born 1996-09-08)
+      :osssssss/        osssso+++.      Role      : Web Dev + CyberSec Enthusiast
+     /ossssssss/        +ssssooo/-      Status    : Currently exploring ArchLinux
+   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : Left Civil Engineering for Code 👨‍💻
+  `+sso+:-`                 `.-/+oso:    Motto     : "Learn. Build. Repeat."
+ `++:.                           `-/+/   
+ .`                                 `
 
-[maini@archlinux ~]$ cat ./about_me.txt
-┌────────────────────────────────────────┐
-│           USER PROFILE                │
-├────────────────────────────────────────┤
-│ > full_name     : Maini Lotfi 
-│ > alias         : phantekzy
-│ > age           : 28 (born 1996-09-08)
-│ > location      : Algeria
-│ > role          : Web Dev + CyberSec 
-│ > status        : Currently exploring ArchLinux
-└────────────────────────────────────────┘
-
-[maini@archlinux ~]$ cd ./skills/dev_stack/
+[maini@archlinux ~]$ cd ~/skills/dev_stack/
 
 [maini@archlinux dev_stack]$ ls -la
 -rw-r--r-- 1 maini users   13 Jul 01 20:25 HTML5
@@ -42,28 +48,8 @@
 [maini@archlinux ~]$ uname -a
 Linux archlinux 6.9.6-arch1-1 x86_64 GNU/Linux
 
-[maini@archlinux ~]$ neofetch
-                   -`                   maini@archlinux
-                  .o+`                  --------------------
-                 `ooo/                  OS: Arch Linux x86_64
-                `+oooo:                 WM: i3-gaps / Hyprland (switching)
-               `+oooooo:                DE: none, terminal-based workflow
-               -+oooooo+:               Terminal: Alacritty / Kitty
-             `/:-:++oooo+:              Shell: Zsh + Starship
-            `/++++/+++++++:             Editor: Neovim (Lua)
-           `/++++++++++++++:            Browser: Firefox / W3M
-          `/+++ooooooooooooo/`          Theme: NerdFont + Gruvbox Dark
-         ./ooosssso++osssssso+`         Hobby: AI, Linux, low-level code
-        .oossssso-````/ossssss+`        Motto: "Learn. Hack. Build. Repeat."
-       -osssssso.      :ssssssso.       
-      :osssssss/        osssso+++.      
-     /ossssssss/        +ssssooo/-      
-   `/ossssso+/:-        -:/+osssso+-    
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/   
- .`                                 `
-
 [maini@archlinux ~]$ exit
 logout
 ███████████ Process terminated successfully.
 Thank you for visiting PHANTEKZY's Arch terminal 🐧
+```

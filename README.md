@@ -1,21 +1,49 @@
-# 💫 About Me:
-Maini Lotfi<br>/**<br>     @role{Web developer & Cyber security}<br>     @location{Algeria}<br>*/
+<!-- README.md -->
 
+<h1 align="center">⚡ Maini Lotfi</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maini-lotfi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mainilotfi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@phantekzy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mainilotfi@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phantekzy&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=phantekzy&theme=great-gatsby&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phantekzy&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=phantekzy&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
+<h3 align="center">/**<br>
+&nbsp;&nbsp;&nbsp;@role {"Web Developer & Cybersecurity Enthusiast"}<br>
+&nbsp;&nbsp;&nbsp;@location {"Algeria"}<br>
+*/</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=phantekzy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Tech Arsenal:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mysql" alt="Tech Stack Icons" />
+</p>
+
+---
+
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="mailto:mainilotfi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/maini-lotfi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/mainilotfi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://youtube.com/@phantekzy"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phantekzy&theme=chartreuse-dark&show_icons=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=phantekzy&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantekzy&theme=chartreuse-dark&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔝 Top Repo:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=phantekzy&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=phantekzy&icon=0&color=6" />
+</p>
+
+<!-- Designed & built by Maini Lotfi. Powered by Markdown & dark vibes. -->

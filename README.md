@@ -1,5 +1,5 @@
 ```bash
-<br>
+<br/>
 
 [phantekzy@archlinux ~]$ fastfetch
                    -`                   phantekzy@archlinux

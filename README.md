@@ -9,14 +9,14 @@
                -+oooooo+:               Age       : 28 (born 1996-09-08)
              `/:-:++oooo+:              Role      : Web Dev + CyberSec Enthusiast
             `/++++/+++++++:             Status    : Currently exploring ArchLinux
-           `/++++++++++++++:            WM        : Hyprland 🌀
+           `/++++++++++++++:            WM        : Hyprland 
           `/+++ooooooooooooo/`          Shell     : Zsh + Starship
          ./ooosssso++osssssso+`         Editor    : Neovim (Lua)
         .oossssso-````/ossssss+`        Terminal  : Alacritty
        -osssssso.      :ssssssso.       Browser   : Firefox / W3M
       :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
      /ossssssss/        +ssssooo/-      Hobby     : AI, Linux, low-level code
-   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : Dropped Civil Engineering for Code 👨‍💻
+   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : Dropped Civil Engineering for Code 
   `+sso+:-`                 `.-/+oso:    Motto     : "Learn. Build. Repeat."
  `++:.                           `-/+/   
  .`                                 `
@@ -35,16 +35,16 @@
 [phantekzy@archlinux ~]$ cd ~/socials/
 
 [phantekzy@archlinux socials]$ curl -s linkedin.com/in/maini-lotfi | grep -i "Maini Lotfi"
-[ OK ] Loaded LinkedIn profile ✅
+[ OK ] Loaded LinkedIn profile 
 
 [phantekzy@archlinux socials]$ curl -s x.com/mainilotfi | grep -i "phantekzy"
-[ OK ] X/Twitter feed found 🐦
+[ OK ] X/Twitter feed found 
 
 [phantekzy@archlinux socials]$ curl -s youtube.com/@phantekzy | grep -i "phantekzy"
-[ OK ] YouTube channel detected 📺
+[ OK ] YouTube channel detected 
 
 [phantekzy@archlinux socials]$ mail -s "Contact" mainilotfi@gmail.com
-[ INFO ] Opening email client... 📧
+[ INFO ] Opening email client... 
 
 [phantekzy@archlinux ~]$ uname -a
 Linux archlinux 6.9.6-arch1-1 x86_64 GNU/Linux
@@ -52,4 +52,4 @@ Linux archlinux 6.9.6-arch1-1 x86_64 GNU/Linux
 [phantekzy@archlinux ~]$ exit
 logout
 ███████████ Process terminated successfully.
-Thank you for visiting PHANTEKZY's Arch terminal 🐧
+Thank you for visiting PHANTEKZY's Arch terminal 

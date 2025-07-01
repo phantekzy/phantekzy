@@ -26,5 +26,5 @@ help --menu
   [Email] → mailto:mainilotfi@gmail.com
 
 exit
-█ Process terminated successfully.
-█ Thank you for visiting PHANTEKZY's terminal.
+███████████ Process terminated successfully.
+Thank you for visiting PHANTEKZY's terminal.

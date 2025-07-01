@@ -1,4 +1,3 @@
-```
 ██████╗ ██╗  ██╗ █████╗ ███╗  ██╗████████╗███████╗██╗  ██╗███████╗██╗   ██╗
 ██╔══██╗██║  ██║██╔══██╗████╗ ██║╚══██╔══╝██╔════╝██║  ██║██╔════╝╚██╗ ██╔╝
 ██████╔╝███████║███████║██╔██╗██║   ██║   █████╗  ███████║█████╗   ╚████╔╝ 
@@ -49,18 +48,25 @@
 Linux archlinux 6.9.6-arch1-1 x86_64 GNU/Linux
 
 [maini@archlinux ~]$ neofetch
-            .-/+oossssoo+/-.               maini@archlinux
-        `:+ssssssssssssssssss+:`           --------------------
-      -+ssssssssssssssssssyyssss+-         OS: Arch Linux x86_64
-    .ossssssssssssssssssdMMMNysssso.       WM: i3-gaps / Hyprland (switching)
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      DE: none, terminal-based workflow
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Terminal: Alacritty / Kitty
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Shell: Zsh + Starship
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Editor: Neovim (Lua)
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Browser: Firefox / W3M
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Theme: NerdFont + Gruvbox Dark
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Hobby: Learning AI, Linux, and low-level code
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Motto: "Learn. Hack. Build. Repeat."
+                   -`                   maini@archlinux
+                  .o+`                  --------------------
+                 `ooo/                  OS: Arch Linux x86_64
+                `+oooo:                 WM: i3-gaps / Hyprland (switching)
+               `+oooooo:                DE: none, terminal-based workflow
+               -+oooooo+:               Terminal: Alacritty / Kitty
+             `/:-:++oooo+:              Shell: Zsh + Starship
+            `/++++/+++++++:             Editor: Neovim (Lua)
+           `/++++++++++++++:            Browser: Firefox / W3M
+          `/+++ooooooooooooo/`          Theme: NerdFont + Gruvbox Dark
+         ./ooosssso++osssssso+`         Hobby: AI, Linux, low-level code
+        .oossssso-````/ossssss+`        Motto: "Learn. Hack. Build. Repeat."
+       -osssssso.      :ssssssso.       
+      :osssssss/        osssso+++.      
+     /ossssssss/        +ssssooo/-      
+   `/ossssso+/:-        -:/+osssso+-    
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/   
+ .`                                 `
 
 [maini@archlinux ~]$ exit
 logout

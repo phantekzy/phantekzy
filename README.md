@@ -1,55 +1,53 @@
-```bash
-[maini@archlinux ~]$ fastfetch
-                   -`                   maini@archlinux
+[phantekzy@archlinux ~]$ fastfetch
+                   -`                   phantekzy@archlinux
                   .o+`                  --------------------------
-                 `ooo/                  OS        : Arch Linux x86_64
-                `+oooo:                 WM        : i3-gaps / Hyprland (dual)
-               `+oooooo:                Shell     : Zsh + Starship
-               -+oooooo+:               Editor    : Neovim (Lua)
-             `/:-:++oooo+:              Terminal  : Alacritty / Kitty
-            `/++++/+++++++:             Browser   : Firefox / W3M
-           `/++++++++++++++:            Theme     : NerdFont + Gruvbox Dark
-          `/+++ooooooooooooo/`          Full Name : Maini Lotfi Abdelkader
-         ./ooosssso++osssssso+`         Alias     : phantekzy
-        .oossssso-````/ossssss+`        Location  : Hadjout, Tipaza, Algeria
-       -osssssso.      :ssssssso.       Age       : 28 (born 1996-09-08)
-      :osssssss/        osssso+++.      Role      : Web Dev + CyberSec Enthusiast
-     /ossssssss/        +ssssooo/-      Status    : Currently exploring ArchLinux
+                 `ooo/                  Full Name : Maini Lotfi Abdelkader
+                `+oooo:                 Alias     : phantekzy
+               `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
+               -+oooooo+:               Age       : 28 (born 1996-09-08)
+             `/:-:++oooo+:              Role      : Web Dev + CyberSec Enthusiast
+            `/++++/+++++++:             Status    : Currently exploring ArchLinux
+           `/++++++++++++++:            WM        : Hyprland 🌀
+          `/+++ooooooooooooo/`          Shell     : Zsh + Starship
+         ./ooosssso++osssssso+`         Editor    : Neovim (Lua)
+        .oossssso-````/ossssss+`        Terminal  : Alacritty / Kitty
+       -osssssso.      :ssssssso.       Browser   : Firefox / W3M
+      :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
+     /ossssssss/        +ssssooo/-      Hobby     : AI, Linux, low-level code
    `/ossssso+/:-        -:/+osssso+-    Fun Fact  : Left Civil Engineering for Code 👨‍💻
   `+sso+:-`                 `.-/+oso:    Motto     : "Learn. Build. Repeat."
  `++:.                           `-/+/   
  .`                                 `
 
-[maini@archlinux ~]$ cd ~/skills/dev_stack/
+[phantekzy@archlinux ~]$ cd ~/skills/dev_stack/
 
-[maini@archlinux dev_stack]$ ls -la
--rw-r--r-- 1 maini users   13 Jul 01 20:25 HTML5
--rw-r--r-- 1 maini users   13 Jul 01 20:25 CSS3
--rw-r--r-- 1 maini users   13 Jul 01 20:25 JavaScript
--rw-r--r-- 1 maini users   13 Jul 01 20:25 PHP
--rw-r--r-- 1 maini users   13 Jul 01 20:25 Node.js
--rw-r--r-- 1 maini users   13 Jul 01 20:25 React
--rw-r--r-- 1 maini users   13 Jul 01 20:25 MySQL
+[phantekzy@archlinux dev_stack]$ ls -la
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 HTML5
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 CSS3
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 JavaScript
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 PHP
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Node.js
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 React
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 MySQL
 
-[maini@archlinux ~]$ cd ~/socials/
+[phantekzy@archlinux ~]$ cd ~/socials/
 
-[maini@archlinux socials]$ curl -s linkedin.com/in/maini-lotfi | grep -i "Maini Lotfi"
+[phantekzy@archlinux socials]$ curl -s linkedin.com/in/maini-lotfi | grep -i "Maini Lotfi"
 [ OK ] Loaded LinkedIn profile ✅
 
-[maini@archlinux socials]$ curl -s x.com/mainilotfi | grep -i "phantekzy"
+[phantekzy@archlinux socials]$ curl -s x.com/mainilotfi | grep -i "phantekzy"
 [ OK ] X/Twitter feed found 🐦
 
-[maini@archlinux socials]$ curl -s youtube.com/@phantekzy | grep -i "phantekzy"
+[phantekzy@archlinux socials]$ curl -s youtube.com/@phantekzy | grep -i "phantekzy"
 [ OK ] YouTube channel detected 📺
 
-[maini@archlinux socials]$ mail -s "Contact" mainilotfi@gmail.com
+[phantekzy@archlinux socials]$ mail -s "Contact" mainilotfi@gmail.com
 [ INFO ] Opening email client... 📧
 
-[maini@archlinux ~]$ uname -a
+[phantekzy@archlinux ~]$ uname -a
 Linux archlinux 6.9.6-arch1-1 x86_64 GNU/Linux
 
-[maini@archlinux ~]$ exit
+[phantekzy@archlinux ~]$ exit
 logout
 ███████████ Process terminated successfully.
 Thank you for visiting PHANTEKZY's Arch terminal 🐧
-```

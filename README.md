@@ -9,6 +9,7 @@
 
 ```
 > user.profile
+```
 ┌────────────────────────────────────────────┐
 │ USER      : Maini Lotfi                   │
 │ ROLE      : Web Developer & Cybersecurity │
@@ -16,9 +17,11 @@
 └────────────────────────────────────────────┘
 
 > techstack.list
+```
 | HTML | CSS | JavaScript | PHP | Node.js | React | MySQL |
 
 > socials.links
+```
 [LinkedIn] → https://linkedin.com/in/maini-lotfi  
 [Twitter/X] → https://x.com/mainilotfi  
 [YouTube] → https://youtube.com/@phantekzy  

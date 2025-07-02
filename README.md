@@ -31,6 +31,7 @@
  `++:.                           `-/+/   
  .`                                 `
 
+
 [phantekzy@archlinux ~]$ cd ~/skills/dev_stack/
 
 [phantekzy@archlinux dev_stack]$ ls -la

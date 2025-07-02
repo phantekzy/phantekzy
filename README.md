@@ -17,7 +17,7 @@
       :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
      /ossssssss/        +ssssooo/-      Hobby     : AI, Linux, low-level code
    `/ossssso+/:-        -:/+osssso+-    Fun Fact  : Dropped Civil Engineering for Code 
-  `+sso+:-`                 `.-/+oso:    Motto     : "Learn. Build. Repeat."
+  `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Repeat."
  `++:.                           `-/+/   
  .`                                 `
 

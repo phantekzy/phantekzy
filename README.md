@@ -47,7 +47,7 @@
 [phantekzy@archlinux socials]$ curl -s linkedin.com/in/maini-lotfi | grep -i "Maini Lotfi"
 [ OK ] Loaded LinkedIn profile 
 
-[phantekzy@archlinux socials]$ curl -s x.com/mainilotfi | grep -i "phantekzy"
+[phantekzy@archlinux socials]$ curl -s x.com/mainilotfi | grep -i "Maini Lotfi"
 [ OK ] X/Twitter feed found 
 
 [phantekzy@archlinux socials]$ curl -s youtube.com/@phantekzy | grep -i "phantekzy"

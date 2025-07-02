@@ -16,7 +16,7 @@
 `---'.|   `--''     |  ,     .-./'---'          ---`-'   \   \  / '--'     `---'            :  \  \ 
   `---`              `--`---'                             `----'                             \  ' ; 
                                                                                               `--`  
-```
+
 
 [phantekzy@archlinux ~]$ fastfetch
                    -`                   phantekzy@archlinux

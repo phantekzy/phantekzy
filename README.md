@@ -1,5 +1,6 @@
-```bash
+<div align="center">
 
+<pre>
  ██▓███   ██░ ██  ▄▄▄       ███▄    █ ▄▄▄█████▓▓█████  ██ ▄█▀▒███████▒▓██   ██▓
 ▓██░  ██▒▓██░ ██▒▒████▄     ██ ▀█   █ ▓  ██▒ ▓▒▓█   ▀  ██▄█▒ ▒ ▒ ▒ ▄▀░ ▒██  ██▒
 ▓██░ ██▓▒▒██▀▀██░▒██  ▀█▄  ▓██  ▀█ ██▒▒ ▓██░ ▒░▒███   ▓███▄░ ░ ▒ ▄▀▒░   ▒██ ██░
@@ -10,6 +11,9 @@
 ░░        ░  ░░ ░  ░   ▒      ░   ░ ░   ░         ░   ░ ░░ ░ ░ ░ ░ ░ ░ ▒ ▒ ░░  
           ░  ░  ░      ░  ░         ░             ░  ░░  ░     ░ ░     ░ ░     
                                                              ░         ░ ░     
+</pre>
+
+<pre>
 [phantekzy@archlinux ~]$ fastfetch
 
                    -`                   phantekzy@archlinux
@@ -67,3 +71,6 @@ logout
 ███████████ Process terminated successfully.
 
 Thank you for visiting PHANTEKZY's Arch terminal 
+</pre>
+
+</div>

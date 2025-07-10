@@ -17,7 +17,7 @@
                 `+oooo:                 Alias     : phantekzy
                `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
                -+oooooo+:               Age       : 28 (born 1996-09-08)
-             `/:-:++oooo+:              Role      : Web Dev + CyberSec Enthusiast
+             `/:-:++oooo+:              Role      : Elden Lord + Web Dev + CyberSec
             `/++++/+++++++:             Status    : Currently exploring ArchLinux
            `/++++++++++++++:            WM        : Hyprland 
           `/+++ooooooooooooo/`          Shell     : Zsh + Starship

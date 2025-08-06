@@ -12,33 +12,33 @@
 
 [phantekzy@archlinux ~]$ fastfetch
 
-xddxxdxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;:;,;;::cdxkkkkkkkkkkkkkkkxkkxkxxkkkxxxxxxxx    
-dxdxdxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc.     ......'cxkkxkkkkkkkkkkkkxxkxxxxxxxxxxxx    
-xdxxxdxxxxxxxxxxxxxxxxxxxxxxxxxxd:    ... . .....;xkkkkkkkkxxkkkxkxxkxxxxxxxxxxx    
-dddxdxxxdxxxxxxxxxxxxxxxxxxxxxxx,         ...'.. .dkxxkkkkkkkkkkxxxxxkxxxxxxxxxx    
-ddddxxdxdxxxdxdxdxxxxdxxxxxxxxdd.  ..',:cloxkkxdc..dxxxkkkkkkkkkkkxxxkxxxxxxxxxx    
-dxdddddxdddddddddddddddddddddddd. .',;clodxkkkkxd, lxxxkkxkkkkkkxxxxxxxxxxxxxxxx    phantekzy@archlinux
-dddddddddddddddddddddddddddddddd...'',;ldkxkkkkxd;.lxxxkkkkkkkxxxkkkxxxxxxxxxxxx    -------------------------------
-dddddddddddddddddddddddddddddddo'..... ..cl;,;;clc'dxxxkkkkkxkkxkkxkxxxxxxxxxxxx    Full Name : Maini Lotfi Abdelkader
-dddddddddddddddddddddodoooooool..........cx;...;cc:xxxxkkkxkkkxkkxxxxxxxxxxxxxxx    Alias     : phantekzy
-ddddddddddddddddoooooooooooooo:..'';:c:,'lkxdodxxod;xxxxkxxkkkkk...kxxxxxxxxxxxx    Location  : Bir Mourad Raïs, Algiers, Algeria
-ddddddddddddodoooooooooooooollc....':c:''lxxOOkkxl:lxxxxxkxxkxxxkxxxxxxxxxxxxxxx    Age       : 28 (born 1996-09-08)
-dddddddddddoooooooooooollllllll,. ..,:;. .;lkOOxo,odxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Role      : Elden Lord + Web Dev + CyberSec
-dddddddodoooooooooolllllllllllllc  ...  .'.',;dl',dxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Status    : Currently exploring ArchLinux
-dddddddooooooooolllllllllccccccll.  .....';:lc;..oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    WM        : Hyprland 
-dddddooooooooollllllllccccccccccc;   .','.:do;. :xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Shell     : Zsh + Starship
-odooooooooooolllllllccccccccccccc,        ... .;oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Editor    : Neovim (Lua)
-oooooooooooolllllccccccc:::::cccl.         ..,;:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Terminal  : Alacritty
-oooooooooooolllllccccc::::::::c,cl,.     .,;;:cdXxdxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Browser   : Firefox / W3M
-ooooooooooolllllcccc:::::::::,..loodl;....;:cxNMW0.;oxxxxxxxxxxxxxxxxxxxxxxxxxxx    Theme     : NerdFont + Gruvbox Dark
-oooooooooolllllcccc::::::;,..   cloxOOO;,',lNWMMWX....;:odxxxxxxxxxxxxxxxxxxxxxx    Hobby     : AI, Linux, low-level code
-oooooooollllllcccc:::;'..       ,lxod,      .dWWWK.........;lddx...xxxxxxxxxxxxx    Fun Fact  : Dropped Civil Engineering for Code 
-oooooooolllllcc:,...            :,co;.     .:':KXK.................xxxxxxxxxxxxx    Motto     : "Learn. Build. Play Dark Souls. Repeat."
-oooooolllllcc'                  :xoxxo,    o000XNK'................;ddxxxxxxxxxx    
-oooolllllcccc.                  ,xxxxd,    .0KXXXX;.................cddddxxxddxx    
-ollllllcccc::.                  .xxkxo.     0KKXXX;................ .ddddddxxxxx    
-llllcccc::::.                    xxdoc.     k0KKX0,...............  .oddddddxdxd    
-lllccc::::;.                     oxxdl.     oKKKKO'......... ...     .dddddddddd    
+xddxxdxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;:;,;;::cdxkkkkkkkkkkkkkkkxkkxkxxkkkxxxxx    
+dxdxdxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc.     ......'cxkkxkkkkkkkkkkkkxxkxxxxxxxxx    
+xdxxxdxxxxxxxxxxxxxxxxxxxxxxxxxxd:    ... . .....;xkkkkkkkkxxkkkxkxxkxxxxxxxx    
+dddxdxxxdxxxxxxxxxxxxxxxxxxxxxxx,         ...'.. .dkxxkkkkkkkkkkxxxxxkxxxxxxx    
+ddddxxdxdxxxdxdxdxxxxdxxxxxxxxdd.  ..',:cloxkkxdc..dxxxkkkkkkkkkkkxxxkxxxxxxx    
+dxdddddxdddddddddddddddddddddddd. .',;clodxkkkkxd, lxxxkkxkkkkkkxxxxxxxxxxxxx    phantekzy@archlinux
+dddddddddddddddddddddddddddddddd...'',;ldkxkkkkxd;.lxxxkkkkkkkxxxkkkxxxxxxxxx    -------------------------------
+dddddddddddddddddddddddddddddddo'..... ..cl;,;;clc'dxxxkkkkkxkkxkkxkxxxxxxxxx    Full Name : Maini Lotfi Abdelkader
+dddddddddddddddddddddodoooooool..........cx;...;cc:xxxxkkkxkkkxkkxxxxxxxxxxxx    Alias     : phantekzy
+ddddddddddddddddoooooooooooooo:..'';:c:,'lkxdodxxod;xxxxkxxkkkkk...kxxxxxxxxx    Location  : Bir Mourad Raïs, Algiers, Algeria
+ddddddddddddodoooooooooooooollc....':c:''lxxOOkkxl:lxxxxxkxxkxxxkxxxxxxxxxxxx    Age       : 28 (born 1996-09-08)
+dddddddddddoooooooooooollllllll,. ..,:;. .;lkOOxo,odxxxxxxxxxxxxxxxxxxxxxxxxx    Role      : Elden Lord + Web Dev + CyberSec
+dddddddodoooooooooolllllllllllllc  ...  .'.',;dl',dxxxxxxxxxxxxxxxxxxxxxxxxxx    Status    : Currently exploring ArchLinux
+dddddddooooooooolllllllllccccccll.  .....';:lc;..oxxxxxxxxxxxxxxxxxxxxxxxxxxx    WM        : Hyprland 
+dddddooooooooollllllllccccccccccc;   .','.:do;. :xxxxxxxxxxxxxxxxxxxxxxxxxxxx    Shell     : Zsh + Starship
+odooooooooooolllllllccccccccccccc,        ... .;oxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Editor    : Neovim (Lua)
+oooooooooooolllllccccccc:::::cccl.         ..,;:xxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Terminal  : Alacritty
+oooooooooooolllllccccc::::::::c,cl,.     .,;;:cdXxdxxxxxxxxxxxxxxxxxxxxxxxxxx    Browser   : Firefox / W3M
+ooooooooooolllllcccc:::::::::,..loodl;....;:cxNMW0.;oxxxxxxxxxxxxxxxxxxxxxxxx    Theme     : NerdFont + Gruvbox Dark
+oooooooooolllllcccc::::::;,..   cloxOOO;,',lNWMMWX....;:odxxxxxxxxxxxxxxxxxxx    Hobby     : AI, Linux, low-level code
+oooooooollllllcccc:::;'..       ,lxod,      .dWWWK.........;lddx...xxxxxxxxxx    Fun Fact  : Dropped Civil Engineering for Code 
+oooooooolllllcc:,...            :,co;.     .:':KXK.................xxxxxxxxxx    Motto     : "Learn. Build. Play Dark Souls. Repeat."
+oooooolllllcc'                  :xoxxo,    o000XNK'................;ddxxxxxxx    
+oooolllllcccc.                  ,xxxxd,    .0KXXXX;.................cddddxxxd    
+ollllllcccc::.                  .xxkxo.     0KKXXX;................ .ddddddxx    
+llllcccc::::.                    xxdoc.     k0KKX0,...............  .oddddddx    
+lllccc::::;.                     oxxdl.     oKKKKO'......... ...     .ddddddd    
 
 
 [phantekzy@archlinux ~]$ cd ~/skills/dev_stack/

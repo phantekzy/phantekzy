@@ -19,12 +19,12 @@ xdxxxdxxxxxxxxxxxxxxxxxxxxxxx,         ...'.. .dkxxkkkkkkkkkkxxxxxkxxxxxxx
 dxxdxdxxxdxdxdxxxxdxxxxxxxxdd.  ..',:cloxkkxdc..dxxxkkkkkkkkkkkxxxkxxxxxxx    
 ddddxdddddddddddddddddddddddd. .',;clodxkkkkxd, lxxxkkxkkkkkkxxxxxxxxxxxxx    phantekzy@archlinux
 ddddddddddddddddddddddddddddd...'',;ldkxkkkkxd;.lxxxkkkkkkkxxxkkkxxxxxxxxx    -------------------------------
-ddddddddddddddddddddddddddddo'..... ..cl;,;;clc'dxxxkkkkkxkkxkkxkxxxxxxxxx    Full Name : Maini Lotfi Abdelkader
+ddddddddddddddddddddddddddddo'..... ..cl;,;;clc'dxxxkkkkkxkkxkkxkxxxxxxxxx    Full Name : Maini Lotfi 
 ddddddddddddddddddodoooooool..........cx;...;cc:xxxxkkkxkkkxkkxxxxxxxxxxxx    Alias     : phantekzy
-dddddddddddddoooooooooooooo:..'';:c:,'lkxdodxxod;xxxxkxxkkkkk...kxxxxxxxxx    Location  : Bir Mourad Raïs, Algiers, Algeria
+dddddddddddddoooooooooooooo:..'';:c:,'lkxdodxxod;xxxxkxxkkkkk...kxxxxxxxxx    Location  : Algiers, Algeria
 dddddddddodoooooooooooooollc....':c:''lxxOOkkxl:lxxxxxkxxkxxxkxxxxxxxxxxxx    Age       : 28 (born 1996-09-08)
-ddddddddoooooooooooollllllll,. ..,:;. .;lkOOxo,odxxxxxxxxxxxxxxxxxxxxxxxxx    Role      : Elden Lord + Web Dev + CyberSec
-ddddodoooooooooolllllllllllllc  ...  .'.',;dl',dxxxxxxxxxxxxxxxxxxxxxxxxxx    Status    : Currently exploring ArchLinux
+ddddddddoooooooooooollllllll,. ..,:;. .;lkOOxo,odxxxxxxxxxxxxxxxxxxxxxxxxx    Role      : Elden Lord + Web Dev 
+ddddodoooooooooolllllllllllllc  ...  .'.',;dl',dxxxxxxxxxxxxxxxxxxxxxxxxxx    Status    : Exploring ArchLinux
 ddddooooooooolllllllllccccccll.  .....';:lc;..oxxxxxxxxxxxxxxxxxxxxxxxxxxx    WM        : Hyprland 
 ddooooooooollllllllccccccccccc;   .','.:do;. :xxxxxxxxxxxxxxxxxxxxxxxxxxxx    Shell     : Zsh + Starship
 oooooooooolllllllccccccccccccc,        ... .;oxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Editor    : Neovim (Lua)
@@ -33,7 +33,7 @@ ooooooooolllllccccc::::::::c,cl,.     .,;;:cdXxdxxxxxxxxxxxxxxxxxxxxxxxxxx    Br
 oooooooolllllcccc:::::::::,..loodl;....;:cxNMW0.;oxxxxxxxxxxxxxxxxxxxxxxxx    Theme     : NerdFont + Gruvbox Dark
 ooooooolllllcccc::::::;,..   cloxOOO;,',lNWMMWX....;:odxxxxxxxxxxxxxxxxxxx    Hobby     : AI, Linux, low-level code
 ooooollllllcccc:::;'..       ,lxod,      .dWWWK.........;lddx...xxxxxxxxxx    Fun Fact  : Dropped Civil Engineering for Code 
-ooooolllllcc:,...            :,co;.     .:':KXK.................xxxxxxxxxx    Motto     : "Learn. Build. Play Dark Souls. Repeat."
+ooooolllllcc:,...            :,co;.     .:':KXK.................xxxxxxxxxx    Motto     : "Learn. Build. Play Dark Souls"
 ooolllllcc'                  :xoxxo,    o000XNK'................;ddxxxxxxx    
 olllllcccc.                  ,xxxxd,    .0KXXXX;.................cddddxxxd    
 llllcccc::.                  .xxkxo.     0KKXXX;................ .ddddddxx    

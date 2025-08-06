@@ -32,7 +32,7 @@ ooooooolllllccccccc:::::cccl.         ..,;:xxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Term
 ooooooolllllccccc::::::::c,cl,.     .,;;:cdXxdxxxxxxxxxxxxxxxxxxxxxxxxxx    Browser   : Firefox / W3M
 oooooolllllcccc:::::::::,..loodl;....;:cxNMW0.;oxxxxxxxxxxxxxxxxxxxxxxxx    Theme     : NerdFont + Gruvbox Dark
 ooooolllllcccc::::::;,..   cloxOOO;,',lNWMMWX....;:odxxxxxxxxxxxxxxxxxxx    Hobby     : AI, Linux, low-level code
-ooollllllcccc:::;'..       ,lxod,      .dWWWK.........;lddx...xxxxxxxxxx    Fun Fact  : Dropped Civil Engineering for Code 
+ooollllllcccc:::;'..       ,lxod,      .dWWWK.........;lddx...xxxxxxxxxx    Fun Fact  : Dropped Civil Engineering 
 ooolllllcc:,...            :,co;.     .:':KXK.................xxxxxxxxxx    Motto     : "Learn. Build. Break"
 olllllcc'                  :xoxxo,    o000XNK'................;ddxxxxxxx    
 llllcccc.                  ,xxxxd,    .0KXXXX;.................cddddxxxd    

@@ -1,44 +1,34 @@
-```
-                              __                          __             __                          
-                       /\ \                        /\ \__         /\ \                         
-                 _____ \ \ \___       __       ___ \ \ ,_\     __ \ \ \/'\   ____    __  __    
-                /\ '__`\\ \  _ `\   /'__`\   /' _ `\\ \ \/   /'__`\\ \ , <  /\_ ,`\ /\ \/\ \   
-                \ \ \L\ \\ \ \ \ \ /\ \L\.\_ /\ \/\ \\ \ \_ /\  __/ \ \ \\`\\/_/  /_\ \ \_\ \  
-                 \ \ ,__/ \ \_\ \_\\ \__/.\_\\ \_\ \_\\ \__\\ \____\ \ \_\ \_\/\____\\/`____ \ 
-                  \ \ \/   \/_/\/_/ \/__/\/_/ \/_/\/_/ \/__/ \/____/  \/_/\/_/\/____/ `/___/> \
-                   \ \_\                                                                 /\___/
-                    \/_/                                                                 \/__/ 
-
+        __                          __             __                          
+       /\ \                        /\ \__         /\ \                         
+ _____ \ \ \___       __       ___ \ \ ,_\     __ \ \ \/'\   ____    __  __    
+/\ '__`\\ \  _ `\   /'__`\   /' _ `\\ \ \/   /'__`\\ \ , <  /\_ ,`\ /\ \/\ \   
+\ \ \L\ \\ \ \ \ \ /\ \L\.\_ /\ \/\ \\ \ \_ /\  __/ \ \ \\`\\/_/  /_\ \ \_\ \  
+ \ \ ,__/ \ \_\ \_\\ \__/.\_\\ \_\ \_\\ \__\\ \____\ \ \_\ \_\/\____\\/`____ \ 
+  \ \ \/   \/_/\/_/ \/__/\/_/ \/_/\/_/ \/__/ \/____/  \/_/\/_/\/____/ `/___/> \
+   \ \_\                                                                 /\___/
+    \/_/                                                                 \/__/ 
 
 [phantekzy@archlinux ~]$ fastfetch
 
-dxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;:;,;;::cdxkkkkkkkkkkkkkkkxkkxkxxkkkxxxxx    
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxc.     ......'cxkkxkkkkkkkkkkkkxxkxxxxxxxxx    
-dxxxxxxxxxxxxxxxxxxxxxxxxxxd:    ... . .....;xkkkkkkkkxxkkkxkxxkxxxxxxxx    
-xxxdxxxxxxxxxxxxxxxxxxxxxxx,         ...'.. .dkxxkkkkkkkkkkxxxxxkxxxxxxx    
-xdxdxxxdxdxdxxxxdxxxxxxxxdd.  ..',:cloxkkxdc..dxxxkkkkkkkkkkkxxxkxxxxxxx    
-ddxdddddddddddddddddddddddd. .',;clodxkkkkxd, lxxxkkxkkkkkkxxxxxxxxxxxxx    phantekzy@archlinux
-ddddddddddddddddddddddddddd...'',;ldkxkkkkxd;.lxxxkkkkkkkxxxkkkxxxxxxxxx    -------------------------------
-ddddddddddddddddddddddddddo'..... ..cl;,;;clc'dxxxkkkkkxkkxkkxkxxxxxxxxx    Full Name : Maini Lotfi 
-ddddddddddddddddodoooooool..........cx;...;cc:xxxxkkkxkkkxkkxxxxxxxxxxxx    Alias     : phantekzy
-dddddddddddoooooooooooooo:..'';:c:,'lkxdodxxod;xxxxkxxkkkkk...kxxxxxxxxx    Location  : Algiers, Algeria
-dddddddodoooooooooooooollc....':c:''lxxOOkkxl:lxxxxxkxxkxxxkxxxxxxxxxxxx    Age       : 28 (born 1996-09-08)
-ddddddoooooooooooollllllll,. ..,:;. .;lkOOxo,odxxxxxxxxxxxxxxxxxxxxxxxxx    Role      : Elden Lord + Web Dev 
-ddodoooooooooolllllllllllllc  ...  .'.',;dl',dxxxxxxxxxxxxxxxxxxxxxxxxxx    Status    : Exploring ArchLinux
-ddooooooooolllllllllccccccll.  .....';:lc;..oxxxxxxxxxxxxxxxxxxxxxxxxxxx    WM        : Hyprland 
-ooooooooollllllllccccccccccc;   .','.:do;. :xxxxxxxxxxxxxxxxxxxxxxxxxxxx    Shell     : Zsh + Starship
-oooooooolllllllccccccccccccc,        ... .;oxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Editor    : Neovim (Lua)
-ooooooolllllccccccc:::::cccl.         ..,;:xxxxxxxxxxxxxxxxxxxxxxxxxxxxx    Terminal  : Alacritty
-ooooooolllllccccc::::::::c,cl,.     .,;;:cdXxdxxxxxxxxxxxxxxxxxxxxxxxxxx    Browser   : Firefox / W3M
-oooooolllllcccc:::::::::,..loodl;....;:cxNMW0.;oxxxxxxxxxxxxxxxxxxxxxxxx    Theme     : NerdFont + Gruvbox Dark
-ooooolllllcccc::::::;,..   cloxOOO;,',lNWMMWX....;:odxxxxxxxxxxxxxxxxxxx    Hobby     : AI, Linux, low-level code
-ooollllllcccc:::;'..       ,lxod,      .dWWWK.........;lddx...xxxxxxxxxx    Fun Fact  : Dropped Civil Engineering 
-ooolllllcc:,...            :,co;.     .:':KXK.................xxxxxxxxxx    Motto     : "Learn. Build. Break"
-olllllcc'                  :xoxxo,    o000XNK'................;ddxxxxxxx    
-llllcccc.                  ,xxxxd,    .0KXXXX;.................cddddxxxd    
-llcccc::.                  .xxkxo.     0KKXXX;................ .ddddddxx    
-ccc::::.                    xxdoc.     k0KKX0,...............  .oddddddx    
-c::::;.                     oxxdl.     oKKKKO'......... ...     .ddddddd    
+                   -`                   phantekzy@archlinux
+                  .o+`                  -------------------------------
+                 `ooo/                  Full Name : Maini Lotfi Abdelkader
+                `+oooo:                 Alias     : phantekzy
+               `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
+               -+oooooo+:               Age       : 28 (born 1996-09-08)
+             `/:-:++oooo+:              Role      : Elden Lord + Web Dev + CyberSec
+            `/++++/+++++++:             Status    : Currently exploring ArchLinux
+           `/++++++++++++++:            WM        : Hyprland 
+          `/+++ooooooooooooo/`          Shell     : Zsh + Starship
+         ./ooosssso++osssssso+`         Editor    : Neovim (Lua)
+        .oossssso-````/ossssss+`        Terminal  : Alacritty
+       -osssssso.      :ssssssso.       Browser   : Firefox / W3M
+      :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
+     /ossssssss/        +ssssooo/-      Hobby     : AI, Linux, low-level code
+   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : Dropped Civil Engineering for Code 
+  `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
+ `++:.                           `-/+/   
+ .`                                 `
 
 
 [phantekzy@archlinux ~]$ cd ~/skills/dev_stack/
@@ -76,4 +66,3 @@ logout
 ███████████ Process terminated successfully.
 
 Thank you for visiting PHANTEKZY's Arch terminal 
-

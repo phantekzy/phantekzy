@@ -18,7 +18,7 @@
                 `+oooo:                 Alias     : phantekzy
                `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
                -+oooooo+:               Age       : 28 (born 1996-09-08)
-             `/:-:++oooo+:              Role      : Elden Lord + Web Dev + CyberSec
+             `/:-:++oooo+:              Role      : Elden Lord + Web Dev 
             `/++++/+++++++:             Status    : Currently exploring ArchLinux
            `/++++++++++++++:            WM        : Hyprland 
           `/+++ooooooooooooo/`          Shell     : Zsh + Starship
@@ -27,7 +27,7 @@
        -osssssso.      :ssssssso.       Browser   : Firefox / W3M
       :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
      /ossssssss/        +ssssooo/-      Hobby     : AI, Linux, low-level code
-   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : Dropped Civil Engineering for Code 
+   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : I wear glasses because i can't C#
   `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
  `++:.                           `-/+/   
  .`                                 `

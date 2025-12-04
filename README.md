@@ -17,7 +17,7 @@
                  `ooo/                  Full Name : Maini Lotfi Abdelkader
                 `+oooo:                 Alias     : phantekzy
                `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
-               -+oooooo+:               Age       : 28 (born 1996-09-08)
+               -+oooooo+:               Age       : 29 (born 1996-09-08)
              `/:-:++oooo+:              Role      : Elden Lord + Web Dev 
             `/++++/+++++++:             Status    : Currently exploring ArchLinux
            `/++++++++++++++:            WM        : Hyprland 
@@ -35,14 +35,23 @@
 
 [phantekzy@archlinux ~]$ cd ~/skills/dev_stack/
 
-[phantekzy@archlinux dev_stack]$ ls -la
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 HTML5
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 CSS3
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 JavaScript
--rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 PHP
--rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Node.js
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 TypeScript
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 React
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Next.js
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Node.js
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Express.js
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 MySQL
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 MongoDB
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Git
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 GitHub
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 GSAP
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Three.js
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Supabase
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Clerk
+
 
 [phantekzy@archlinux ~]$ cd ~/socials/
 

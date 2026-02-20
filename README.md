@@ -1,36 +1,40 @@
-```
-        
-        __                          __             __                          
-       /\ \                        /\ \__         /\ \                         
- _____ \ \ \___       __       ___ \ \ ,_\     __ \ \ \/'\   ____    __  __    
-/\ '__`\\ \  _ `\   /'__`\   /' _ `\\ \ \/   /'__`\\ \ , <  /\_ ,`\ /\ \/\ \   
-\ \ \L\ \\ \ \ \ \ /\ \L\.\_ /\ \/\ \\ \ \_ /\  __/ \ \ \\`\\/_/  /_\ \ \_\ \  
- \ \ ,__/ \ \_\ \_\\ \__/.\_\\ \_\ \_\\ \__\\ \____\ \ \_\ \_\/\____\\/`____ \ 
-  \ \ \/   \/_/\/_/ \/__/\/_/ \/_/\/_/ \/__/ \/____/  \/_/\/_/\/____/ `/___/> \
-   \ \_\                                                                 /\___/
-    \/_/                                                                 \/__/ 
+<div align="center">
 
-[phantekzy@archlinux ~]$ fastfetch
 
+<pre>
+      __                        __      __                        
+     /\ \                      /\ \__  /\ \                       
+ ____\ \ \___      __      ___ \ \ ,_\ \ \ \___      __   ____  __  __ 
+/\ '__`\ \  _ `\  /'__`\  /' _ `\ \ \/  \ \  _ `\  /'__`\/\_ ,`\/\ \/\ \
+\ \ \L\ \ \ \ \ \/\ \L\.\_/\ \/\ \ \ \_  \ \ \ \ \/\  __/\/_/  /_\ \ \_\ \
+ \ \ ,__/\ \_\ \_\ \__/.\_\ \_\ \_\ \__\  \ \_\ \_\ \____\/\____\\/`____ \
+  \ \ \/  \/_/\/_/\/__/\/_/\/_/\/_/\/__/   \/_/\/_/\/____/\/____/ `/___/> \
+   \ \_\                                                              /\___/
+    \/_/                                                              \/__/
+</pre>
+
+### [phantekzy@archlinux ~]$ fastfetch
+
+<pre>
                    -`                   phantekzy@archlinux
                   .o+`                  -------------------------------
                  `ooo/                  Full Name : Maini Lotfi Abdelkader
                 `+oooo:                 Alias     : phantekzy
-               `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
-               -+oooooo+:               Age       : 29 (born 1996-09-08)
-             `/:-:++oooo+:              Role      : Elden Lord 
-            `/++++/+++++++:             Status    : Currently exploring ArchLinux
+               `+oooooo:                Location  : Algiers, Algeria 
+               -+oooooo+:               Age       : 29
+             `/:-:++oooo+:              Role      : Elden Lord
+            `/++++/+++++++:             Status    : Exploring ArchLinux
            `/++++++++++++++:            WM        : Hyprland 
           `/+++ooooooooooooo/`          Shell     : Zsh + Starship
          ./ooosssso++osssssso+`         Editor    : Neovim (Lua)
         .oossssso-````/ossssss+`        Terminal  : Alacritty
-       -osssssso.      :ssssssso.       Browser   : Firefox / W3M
-      :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
-     /ossssssss/        +ssssooo/-      Hobby     : AI, Linux, low-level code
-   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : I wear glasses because i can't C#
-  `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
- `++:.                           `-/+/   
+       -osssssso.      :ssssssso.       Theme     : NerdFont + Gruvbox Dark
+      :osssssss/        osssso+++.      Hobby     : AI, Linux, Low-level
+     /ossssssss/        +ssssooo/-      Fun Fact  : I wear glasses because i can't C#
+   `/ossssso+/:-        -:/+osssso+-    Motto     : "Learn. Build. Play Dark Souls. Repeat."
+  `+sso+:-`                 `.-/+oso:   
+ `++:.                           `-/+/  
  .`                                 `
+</pre>
 
-
-```
+</div>

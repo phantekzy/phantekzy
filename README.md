@@ -39,10 +39,23 @@
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 HTML5
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 CSS3
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 JavaScript
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 TypeScript
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 PHP
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Node.js
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 React
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Next.js
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Rust
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 C
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Java
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 MySQL
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 PostgreSQL
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 MongoDB
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Drizzle-ORM
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Supabase
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 MinIO
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Docker
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Neovim-Lua
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Bash-Zsh
 
 [phantekzy@archlinux ~]$ cd ~/socials/
 

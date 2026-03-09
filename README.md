@@ -1,5 +1,4 @@
 ```
- 
         __                          __             __                          
        /\ \                        /\ \__         /\ \                         
  _____ \ \ \___       __       ___ \ \ ,_\     __ \ \ \/'\   ____    __  __    
@@ -56,23 +55,6 @@
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Docker
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Neovim-Lua
 -rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Bash-Zsh
-
-[phantekzy@archlinux ~]$ cd ~/socials/
-
-[phantekzy@archlinux socials]$ curl -s linkedin.com/in/maini-lotfi | grep -i "Maini Lotfi"
-[ OK ] Loaded LinkedIn profile 
-
-[phantekzy@archlinux socials]$ curl -s x.com/mainilotfi | grep -i "Maini Lotfi"
-[ OK ] X/Twitter feed found 
-
-[phantekzy@archlinux socials]$ curl -s youtube.com/@phantekzy | grep -i "phantekzy"
-[ OK ] YouTube channel detected 
-
-[phantekzy@archlinux socials]$ mail -s "Contact" mainilotfi@gmail.com
-[ INFO ] Opening email client... 
-
-[phantekzy@archlinux ~]$ uname -a
-Linux archlinux 6.9.6-arch1-1 x86_64 GNU/Linux
 
 [phantekzy@archlinux ~]$ exit
 

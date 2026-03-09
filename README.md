@@ -1,104 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:282828,100:1d2021&text=PHANTEKZY%20SYSTEM%20INTERFACE&fontColor=fabd2f&fontSize=36&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=282828&text=PHANTEKZY%20//%20KERNEL%20v3.0&fontColor=fabd2f&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=FABD2F&background=1D202100&center=true&vCenter=true&width=900&lines=Booting+developer+environment...;Loading+Arch+Linux+kernel...;User:+phantekzy;Name:+Maini+Lotfi+Abdelkader;Role:+Systems+Developer+%7C+Full+Stack+Developer;Editor:+Neovim;Shell:+zsh;Window+Manager:+Hyprland;Initializing+modules...;React+runtime+ready;Next.js+framework+loaded;Node.js+backend+services+online;Three.js+rendering+engine+initialized;Supabase+client+connected;GSAP+animation+engine+active;Git+version+control+ready;System+ready." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=900&lines=ROOT@SYSTEMS-DEVELOPER:~/main;EXPLORING+THE+BOUNDARIES+OF+WEB+AND+LINUX;MASTERING+THE+STACKS:+MERN+%7C+NEXT.JS+%7C+SUPABASE;CURRENT+FOCUS:+WEBGL+AND+SYSTEM+OPTIMIZATION;PRAISE+THE+SUN+--+DARK+SOULS+INFUSED+CODE;" />
 </p>
 
+## 📂 System Overview
 ---
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📟 Hardware & OS</h3>
+      <ul>
+        <li><strong>OS:</strong> Arch Linux (Kernel: Zen)</li>
+        <li><strong>WM:</strong> Hyprland (Wayland)</li>
+        <li><strong>Terminal:</strong> Alacritty</li>
+        <li><strong>Shell:</strong> Zsh + Oh My Zsh</li>
+        <li><strong>Editor:</strong> Neovim (Custom Lua Config)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Core Competencies</h3>
+      <ul>
+        <li><strong>Frontend:</strong> Next.js, React, Three.js, GSAP</li>
+        <li><strong>Backend:</strong> Node.js, Express, Go</li>
+        <li><strong>Database:</strong> PostgreSQL, MongoDB, Supabase</li>
+        <li><strong>DevOps:</strong> Git, Docker, Linux SysAdmin</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## ~/system/fastfetch
-
-```bash
-                  -`                   phantekzy@archlinux
-                 .o+`                  -------------------------------
-                `ooo/                  OS: Arch Linux x86_64
-               `+oooo:                 Role: Systems Developer
-              `+oooooo:                Stack: Full Stack Web
-              -+oooooo+:               Shell: zsh
-            `/:-:++oooo+:              Editor: Neovim
-           `/++++/+++++++:             WM: Hyprland
-          `/++++++++++++++:            Terminal: Alacritty
-         `/+++ooooooooooooo/`          Theme: Gruvbox
-        ./ooosssso++osssssso+`         Focus: Web Systems + Linux
-```
-
+## 🚀 Tech-Matrix
 ---
-
-## ~/dev_stack/ls -la
-
-```bash
-drwxr-xr-x  2 phantekzy users 4096 Mar 10 00:15 .
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 JavaScript
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 TypeScript
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 React
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 Next.js
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 Node.js
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 Express
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 MongoDB
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 MySQL
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 Supabase
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 Three.js
--rw-r--r--  1 phantekzy users 1024 Mar 10 00:15 GSAP
-```
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,gsap,nodejs,express,mongodb,mysql,supabase,git,neovim,linux,figma&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,gsap,nodejs,express,mongodb,mysql,supabase,git,neovim,linux,figma,docker,tailwind,postman&perline=9" />
 </p>
 
+## 📊 Analytics & Telemetry
 ---
-
-## ~/metrics/system_stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phantekzy&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantekzy&layout=compact&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&text_color=ebdbb2" width="48%" />
+</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=phantekzy&show_icons=true&theme=gruvbox&hide_border=true&bg_color=282828&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phantekzy&theme=gruvbox&hide_border=true&background=282828&stroke=fabd2f&ring=fe8019&fire=fe8019&currStreakLabel=fabd2f" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phantekzy&theme=gruvbox&hide_border=true&bg_color=1d2021&color=fabd2f&line=fe8019&point=fabd2f&area=true" width="100%" />
 </p>
 
+## 🐉 Contribution Flow
 ---
-
-## ~/metrics/activity_graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phantekzy&theme=gruvbox&hide_border=true&bg_color=282828&color=fabd2f&line=fe8019&point=fabd2f"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+## 📡 Establishing Connection
 ---
-
-## ~/daemon/contribution_snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## ~/network/curl -I socials.phantekzy
-
-```http
-HTTP/1.1 200 OK
-Content-Type: application/json
-
+```json
 {
-  "email": "mainilotfi@gmail.com",
-  "linkedin": "in/maini-lotfi",
-  "youtube": "@phantekzy",
-  "stack": "systems + fullstack",
-  "motto": "Learn. Build. Play Dark Souls. Repeat."
+  "status": "Available for collaboration",
+  "location": "Algiers, DZ",
+  "comms": {
+    "email": "mainilotfi@gmail.com",
+    "linkedin": "in/maini-lotfi",
+    "youtube": "@phantekzy"
+  },
+  "hobbies": ["Dark Souls Speedruns", "Rice Customization", "Open Source"]
 }
-```
-
----
-
-## ~/system/visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=phantekzy&label=PROFILE+VISITS&color=fe8019&style=flat"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:282828,100:1d2021&section=footer"/>
-</p>

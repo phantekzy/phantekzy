@@ -1,75 +1,72 @@
-__                        __             __                        
-           /\ \                       /\ \__         /\ \                        
-     _____ \ \ \___       __       ___ \ \ ,_\     __ \ \ \/'\    ____    __  __   
-    /\ '__`\\ \  _ `\    /'__`\   /' _ `\\ \ \/    /'__`\\ \ , <   /\_ ,`\ /\ \/\ \  
-    \ \ \L\ \\ \ \ \ \ /\ \L\.\_ /\ \/\ \\ \ \_ /\  __/ \ \ \\`\\/_/  /_\ \ \_\ \ 
-     \ \ ,__/ \ \_\ \_\\ \__/.\_\\ \_\ \_\\ \__\\ \____\ \ \_\ \_\/\____\\/`____ \
-      \ \ \/    \/_/\/_/ \/__/\/_/ \/_/\/_/ \/__/ \/____/  \/_/\/_/\/____/ `/___/> \
-       \ \_\                                                                /\___/
-        \/_/                                                                \/__/ 
+```
+ 
+        __                          __             __                          
+       /\ \                        /\ \__         /\ \                         
+ _____ \ \ \___       __       ___ \ \ ,_\     __ \ \ \/'\   ____    __  __    
+/\ '__`\\ \  _ `\   /'__`\   /' _ `\\ \ \/   /'__`\\ \ , <  /\_ ,`\ /\ \/\ \   
+\ \ \L\ \\ \ \ \ \ /\ \L\.\_ /\ \/\ \\ \ \_ /\  __/ \ \ \\`\\/_/  /_\ \ \_\ \  
+ \ \ ,__/ \ \_\ \_\\ \__/.\_\\ \_\ \_\\ \__\\ \____\ \ \_\ \_\/\____\\/`____ \ 
+  \ \ \/   \/_/\/_/ \/__/\/_/ \/_/\/_/ \/__/ \/____/  \/_/\/_/\/____/ `/___/> \
+   \ \_\                                                                 /\___/
+    \/_/                                                                 \/__/ 
 
-# Maini Lotfi Abdelkader (phantekzy)
+[phantekzy@archlinux ~]$ fastfetch
 
-### System Information
-* **OS**: Arch Linux / Fedora
-* **Location**: Bir Mourad Raïs, Algiers, Algeria
-* **Role**: Full Stack Developer | Systems Engineering Enthusiast
-* **Editor**: Neovim (Lua-based)
-* **Shell**: Zsh + Starship
-* **WM**: Hyprland
-* **Motto**: "Learn. Build. Play Dark Souls. Repeat."
+                   -`                   phantekzy@archlinux
+                  .o+`                  -------------------------------
+                 `ooo/                  Full Name : Maini Lotfi Abdelkader
+                `+oooo:                 Alias     : phantekzy
+               `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
+               -+oooooo+:               Age       : 28 (born 1996-09-08)
+             `/:-:++oooo+:              Role      : Elden Lord + Web Dev 
+            `/++++/+++++++:             Status    : Currently exploring ArchLinux
+           `/++++++++++++++:            WM        : Hyprland 
+          `/+++ooooooooooooo/`          Shell     : Zsh + Starship
+         ./ooosssso++osssssso+`         Editor    : Neovim (Lua)
+        .oossssso-````/ossssss+`        Terminal  : Alacritty
+       -osssssso.      :ssssssso.       Browser   : Firefox / W3M
+      :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
+     /ossssssss/        +ssssooo/-      Hobby     : AI, Linux, low-level code
+   `/ossssso+/:-        -:/+osssso+-    Fun Fact  : I wear glasses because i can't C#
+  `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
+ `++:.                           `-/+/   
+ .`                                 `
 
----
 
-### Tech Stack
+[phantekzy@archlinux ~]$ cd ~/skills/dev_stack/
 
-#### Low-Level & Systems
-* C / Rust
-* Linux Kernel / Shell Scripting
-* Memory Management & Systems Architecture
+[phantekzy@archlinux dev_stack]$ ls -la
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 HTML5
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 CSS3
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 JavaScript
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 PHP
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 Node.js
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 React
+-rw-r--r-- 1 phantekzy users   13 Jul 01 20:25 MySQL
 
-#### Backend & Databases
-* Node.js / TypeScript
-* PHP
-* PostgreSQL / MySQL / MongoDB
-* Drizzle ORM
-* MinIO (Object Storage)
+[phantekzy@archlinux ~]$ cd ~/socials/
 
-#### Frontend
-* React / Next.js
-* JavaScript (ES6+)
-* HTML5 / CSS3
-* Tailwind CSS
+[phantekzy@archlinux socials]$ curl -s linkedin.com/in/maini-lotfi | grep -i "Maini Lotfi"
+[ OK ] Loaded LinkedIn profile 
 
-#### Tools & DevOps
-* Git / GitHub
-* Docker
-* Neovim (Neozy config)
-* Alacritty / Kitty
-* Starship TUI
+[phantekzy@archlinux socials]$ curl -s x.com/mainilotfi | grep -i "Maini Lotfi"
+[ OK ] X/Twitter feed found 
 
----
+[phantekzy@archlinux socials]$ curl -s youtube.com/@phantekzy | grep -i "phantekzy"
+[ OK ] YouTube channel detected 
 
-### Projects
+[phantekzy@archlinux socials]$ mail -s "Contact" mainilotfi@gmail.com
+[ INFO ] Opening email client... 
 
-* **Echo**: A multi-tenant storage engine built with Node.js and Drizzle, focusing on organizational data isolation via MinIO.
-* **Dovahkiin**: A high-performance system dashboard TUI written in Rust for real-time hardware and network monitoring.
-* **rwatch**: A lightweight Rust-based alternative to the Unix watch command.
-* **Brevity**: A performant URL shortener utilizing Node.js, Drizzle, and PostgreSQL.
-* **Neozy**: A modular, highly optimized Neovim configuration tailored for systems engineering.
+[phantekzy@archlinux ~]$ uname -a
+Linux archlinux 6.9.6-arch1-1 x86_64 GNU/Linux
 
----
+[phantekzy@archlinux ~]$ exit
 
-### Stats & Activity
-* **Rank**: #6 Most Active GitHub User in Algeria (2026)
-* **Status**: Currently exploring low-level memory safety and building tools from scratch.
+logout
 
----
+███████████ Process terminated successfully.
 
-### Connect
-* **LinkedIn**: [linkedin.com/in/maini-lotfi](https://linkedin.com/in/maini-lotfi)
-* **X**: [x.com/mainilotfi](https://x.com/mainilotfi)
-* **YouTube**: [@phantekzy](https://youtube.com/@phantekzy)
-* **Email**: mainilotfi@gmail.com
+Thank you for visiting PHANTEKZY's Arch terminal
 
-> Fun Fact: I wear glasses because I can't C#.
+```

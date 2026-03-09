@@ -1,13 +1,4 @@
-
-        __                          __             __                          
-       /\ \                        /\ \__         /\ \                         
- _____ \ \ \___       __       ___ \ \ ,_\     __ \ \ \/'\   ____    __  __    
-/\ '__`\\ \  _ `\   /'__`\   /' _ `\\ \ \/   /'__`\\ \ , <  /\_ ,`\ /\ \/\ \   
-\ \ \L\ \\ \ \ \ \ /\ \L\.\_ /\ \/\ \\ \ \_ /\  __/ \ \ \\`\\/_/  /_\ \ \_\ \  
- \ \ ,__/ \ \_\ \_\\ \__/.\_\\ \_\ \_\\ \__\\ \____\ \ \_\ \_\/\____\\/`____ \ 
-  \ \ \/   \/_/\/_/ \/__/\/_/ \/_/\/_/ \/__/ \/____/  \/_/\/_/\/____/ `/___/> \
-   \ \_\                                                                 /\___/
-    \/_/                                                                 \/__/ 
+    
 
 [phantekzy@archlinux ~]$ fastfetch
 
@@ -31,7 +22,6 @@
  `++:.                           `-/+/   
  .`                                 `
 
-
 [phantekzy@archlinux ~]$ cd ~/skills/dev_stack/
 
 [phantekzy@archlinux dev_stack]$ ls -la
@@ -48,7 +38,7 @@
 [phantekzy@archlinux socials]$ curl -s linkedin.com/in/maini-lotfi | grep -i "Maini Lotfi"
 [ OK ] Loaded LinkedIn profile 
 
-[phantekzy@archlinux socials]$ curl -s x.com/mainilotfi | grep -i "Maini Lotfi"
+[phantekzy@archlinux socials]$ curl -s x.com/mainilotfi | grep -i "phantekzy"
 [ OK ] X/Twitter feed found 
 
 [phantekzy@archlinux socials]$ curl -s youtube.com/@phantekzy | grep -i "phantekzy"

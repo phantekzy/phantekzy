@@ -13,21 +13,21 @@
 
                    -`                   phantekzy@archlinux
                   .o+`                  -------------------------------
-                 `ooo/                  Full Name : Maini Lotfi Abdelkader
+                 `ooo/                  Full Name : Maini Lotfi 
                 `+oooo:                 Alias     : phantekzy
-               `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
-               -+oooooo+:               Age       : 28 (born 1996-09-08)
-             `/:-:++oooo+:              Role      : Elden Lord + Web Dev 
-            `/++++/+++++++:             Status    : Currently exploring ArchLinux
+               `+oooooo:                Location  : Caelid , Lands Between
+               -+oooooo+:               Age       : Older than Java
+             `/:-:++oooo+:              Role      : Elden Lord / Systems & FullStack Developer
+            `/++++/+++++++:             Status    : Coding Everyday
            `/++++++++++++++:            WM        : Hyprland 
           `/+++ooooooooooooo/`          Shell     : Zsh + Starship
-         ./ooosssso++osssssso+`         Editor    : Neovim (Lua)
-        .oossssso-````/ossssss+`        Terminal  : Alacritty
+         ./ooosssso++osssssso+`         Editor    : Neovim (I use vim,btw)
+        .oossssso-````/ossssss+`        Terminal  : Kitty
        -osssssso.      :ssssssso.       Browser   : Firefox / W3M
       :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
-     /ossssssss/        +ssssooo/-      Hobby     : AI, Linux, low-level code
+     /ossssssss/        +ssssooo/-      Hobby     : Security, Linux, low-level code
    `/ossssso+/:-        -:/+osssso+-    Fun Fact  : I wear glasses because i can't C#
-  `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
+  `+sso+:-`                 `.-/+oso:   
  `++:.                           `-/+/   
  .`                                 `
 

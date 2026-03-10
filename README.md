@@ -10,6 +10,7 @@
     \/_/                                                                 \/__/ 
 
 [phantekzy@archlinux ~]$ fastfetch
+```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1793D1&width=435&lines=sudo+pacman+-Syu;Updating+Arch+Linux...;System+is+up+to+date!)](https://github.com/DenverCoder1/readme-typing-svg)
 
                    -`                   phantekzy@archlinux

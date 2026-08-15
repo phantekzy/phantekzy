@@ -20,7 +20,7 @@
                `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
                -+oooooo+:               Age       : 0b00110110100010111011100010000000
              `/:-:++oooo+:              Role      : Rust Software Engineer
-            `/++++/+++++++:             Status    : Currently exploring ArchLinux
+            `/++++/+++++++:             Status    : Advancing offensive security capabilities
            `/++++++++++++++:            WM        : Hyprland 
           `/+++ooooooooooooo/`          Shell     : Zsh + Starship
          ./ooosssso++osssssso+`         Editor    : Neovim (Lua)

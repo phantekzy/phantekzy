@@ -27,7 +27,7 @@
         .oossssso-````/ossssss+`        Terminal  : Alacritty
        -osssssso.      :ssssssso.       Browser   : Firefox / W3M
       :osssssss/        osssso+++.      Theme     : NerdFont + Gruvbox Dark
-     /ossssssss/        +ssssooo/-      Hobby     : Systems programming, vulnerability research, reverse engineering
+     /ossssssss/        +ssssooo/-      Hobby     : Systems programming, vulnerability research
    `/ossssso+/:-        -:/+osssso+-    Fun Fact  : I wear glasses because i can't C#
   `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
  `++:.                           `-/+/   

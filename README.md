@@ -33,7 +33,4 @@
  `++:.                           `-/+/   
  .`                                 `
 
-
-Thank you for visiting PHANTEKZY's Arch terminal
-
 ```

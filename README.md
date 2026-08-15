@@ -19,7 +19,7 @@
                 `+oooo:                 Alias     : phantekzy
                `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
                -+oooooo+:               Age       : 0b00110110100010111011100010000000
-             `/:-:++oooo+:              Role      : Elden Lord + Web Dev 
+             `/:-:++oooo+:              Role      : Rust Software Engineer
             `/++++/+++++++:             Status    : Currently exploring ArchLinux
            `/++++++++++++++:            WM        : Hyprland 
           `/+++ooooooooooooo/`          Shell     : Zsh + Starship

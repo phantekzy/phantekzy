@@ -13,7 +13,7 @@
 [phantekzy@archlinux ~]$ fastfetch
 
                    -`                   phantekzy@archlinux
-                  .o+`                  -------------------------------
+                  .o+`                  --------------------
                  `ooo/                  Full Name : Maini Lotfi 
                 `+oooo:                 Alias     : Phantekzy
                `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
@@ -31,4 +31,5 @@
   `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
  `++:.                           `-/+/   
  .`                                 `
+
 ```

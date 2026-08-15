@@ -31,6 +31,4 @@
   `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
  `++:.                           `-/+/   
  .`                                 `
-
-
 ```

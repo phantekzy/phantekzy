@@ -1,6 +1,5 @@
 [![Rank in Algeria](https://user-badge.committers.top/algeria/phantekzy.svg)](https://user-badge.committers.top/algeria/phantekzy)
 ```
- 
         __                          __             __                          
        /\ \                        /\ \__         /\ \                         
  _____ \ \ \___       __       ___ \ \ ,_\     __ \ \ \/'\   ____    __  __    
@@ -32,7 +31,6 @@
   `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
  `++:.                           `-/+/   
  .`                                 `
-
 
 
 ```

@@ -16,7 +16,7 @@
                    -`                   phantekzy@archlinux
                   .o+`                  -------------------------------
                  `ooo/                  Full Name : Maini Lotfi 
-                `+oooo:                 Alias     : phantekzy
+                `+oooo:                 Alias     : Phantekzy
                `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
                -+oooooo+:               Age       : 0b00110110100010111011100010000000
              `/:-:++oooo+:              Role      : Rust Software Engineer
@@ -32,5 +32,7 @@
   `+sso+:-`                 `.-/+oso:   Motto     : "Learn. Build. Play Dark Souls. Repeat."
  `++:.                           `-/+/   
  .`                                 `
+
+
 
 ```

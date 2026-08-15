@@ -15,10 +15,10 @@
 
                    -`                   phantekzy@archlinux
                   .o+`                  -------------------------------
-                 `ooo/                  Full Name : Maini Lotfi Abdelkader
+                 `ooo/                  Full Name : Maini Lotfi 
                 `+oooo:                 Alias     : phantekzy
                `+oooooo:                Location  : Bir Mourad Raïs, Algiers, Algeria
-               -+oooooo+:               Age       : 28 (born 1996-09-08)
+               -+oooooo+:               Age       : 0b00110110100010111011100010000000
              `/:-:++oooo+:              Role      : Elden Lord + Web Dev 
             `/++++/+++++++:             Status    : Currently exploring ArchLinux
            `/++++++++++++++:            WM        : Hyprland 
